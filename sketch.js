@@ -65,7 +65,7 @@ function setup()
 
 function draw()
 {
-   background(180);
+   background(0);
     
   //String Concatenation -- Adding strings (text)
   var firstname='Vaishnavie'; //string variable
